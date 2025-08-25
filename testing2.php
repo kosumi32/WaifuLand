@@ -8,3 +8,4 @@ $randomString = substr(str_shuffle('abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQR
 echo "Random Number: $randomNumber\n";
 echo "Random String: $randomString\n";
 ?>
+hehe
